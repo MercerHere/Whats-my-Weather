@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights and checkpoints
+*.safetensors
+*.bin
+checkpoints/
+outputs/
+adapters/
+
+# Secrets
+.env
+*.key
+
+# Temporary files
+*.log
