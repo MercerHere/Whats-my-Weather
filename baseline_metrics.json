@@ -1,0 +1,11 @@
+{
+    "model": "Qwen/Qwen2.5-0.5B-Instruct",
+    "total_examples": 50,
+    "valid_json": 50,
+    "valid_json_rate": 100.0,
+    "correct_tool": 50,
+    "correct_tool_rate": 100.0,
+    "correct_args": 49,
+    "correct_args_rate": 98.0,
+    "elapsed_seconds": 33.72
+}
