@@ -1,0 +1,12 @@
+
+torch
+transformers
+peft
+trl
+datasets
+accelerate
+bitsandbytes
+requests
+fastapi
+uvicorn
+pydantic
