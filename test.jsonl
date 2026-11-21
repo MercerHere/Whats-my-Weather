@@ -1,0 +1,50 @@
+{"messages": [{"role": "user", "content": "Donne-moi les prévisions météo pour Bizerte dans les 5 prochains jours."}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Bizerte\", \"days\": 5}"}]}
+{"messages": [{"role": "user", "content": "Donne-moi les prévisions météo pour Sfax dans les 5 prochains jours."}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Sfax\", \"days\": 5}"}]}
+{"messages": [{"role": "user", "content": "Quelle météo est prévue à Gabes dans les 5 prochains jours ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Gabes\", \"days\": 5}"}]}
+{"messages": [{"role": "user", "content": "Donne-moi les prévisions météo pour Rabat après-demain."}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Rabat\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Quelle météo est prévue à Bizerte demain ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Bizerte\", \"days\": 2}"}]}
+{"messages": [{"role": "user", "content": "Quel temps fera-t-il à Lyon dans les 3 prochains jours ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Lyon\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Quelle météo est prévue à Mahdia dans les 5 prochains jours ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Mahdia\", \"days\": 5}"}]}
+{"messages": [{"role": "user", "content": "Quelle météo est prévue à Oran dans les 3 prochains jours ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Oran\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Dois-je prendre un parapluie à Paris aujourd'hui ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Paris\", \"days\": 1}"}]}
+{"messages": [{"role": "user", "content": "Donne-moi les prévisions météo pour Brussels aujourd'hui."}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Brussels\", \"days\": 1}"}]}
+{"messages": [{"role": "user", "content": "Quel temps fera-t-il à Montreal dans les 5 prochains jours ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Montreal\", \"days\": 5}"}]}
+{"messages": [{"role": "user", "content": "Do I need an umbrella in Lyon tomorrow?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Lyon\", \"days\": 2}"}]}
+{"messages": [{"role": "user", "content": "Quelle météo est prévue à Gabes dans les 3 prochains jours ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Gabes\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Quelle météo est prévue à Monastir dans les 5 prochains jours ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Monastir\", \"days\": 5}"}]}
+{"messages": [{"role": "user", "content": "Quel temps fera-t-il à Montreal dans les 3 prochains jours ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Montreal\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Quelle météo est prévue à Mahdia après-demain ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Mahdia\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "What's the weather like in Lyon the day after tomorrow?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Lyon\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Will it rain in London today?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"London\", \"days\": 1}"}]}
+{"messages": [{"role": "user", "content": "Donne-moi les prévisions météo pour Gabes après-demain."}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Gabes\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Est-ce qu'il va pleuvoir à London après-demain ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"London\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Give me the weather forecast for Paris today."}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Paris\", \"days\": 1}"}]}
+{"messages": [{"role": "user", "content": "Donne-moi les prévisions météo pour Sousse aujourd'hui."}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Sousse\", \"days\": 1}"}]}
+{"messages": [{"role": "user", "content": "Donne-moi les prévisions météo pour Marseille dans les 3 prochains jours."}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Marseille\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Do I need an umbrella in Paris the day after tomorrow?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Paris\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "What's the weather like in Paris in the next 3 days?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Paris\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Do I need an umbrella in Lyon in the next 3 days?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Lyon\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Quelle météo est prévue à Marseille dans les 5 prochains jours ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Marseille\", \"days\": 5}"}]}
+{"messages": [{"role": "user", "content": "Est-ce qu'il va pleuvoir à London dans les 3 prochains jours ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"London\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Donne-moi les prévisions météo pour Algiers dans les 5 prochains jours."}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Algiers\", \"days\": 5}"}]}
+{"messages": [{"role": "user", "content": "Quel temps fera-t-il à London dans les 3 prochains jours ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"London\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Quelle météo est prévue à Kairouan dans les 3 prochains jours ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Kairouan\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Give me the weather forecast for Paris in the next 3 days."}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Paris\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Donne-moi les prévisions météo pour Monastir aujourd'hui."}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Monastir\", \"days\": 1}"}]}
+{"messages": [{"role": "user", "content": "Donne-moi les prévisions météo pour Oran aujourd'hui."}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Oran\", \"days\": 1}"}]}
+{"messages": [{"role": "user", "content": "What weather should I expect in Lyon tomorrow?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Lyon\", \"days\": 2}"}]}
+{"messages": [{"role": "user", "content": "Quel temps fera-t-il à Paris dans les 3 prochains jours ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Paris\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "What's the weather like in London today?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"London\", \"days\": 1}"}]}
+{"messages": [{"role": "user", "content": "Give me the weather forecast for Montreal tomorrow."}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Montreal\", \"days\": 2}"}]}
+{"messages": [{"role": "user", "content": "Dois-je prendre un parapluie à London aujourd'hui ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"London\", \"days\": 1}"}]}
+{"messages": [{"role": "user", "content": "Will it rain in Montreal the day after tomorrow?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Montreal\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Will it rain in London in the next 5 days?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"London\", \"days\": 5}"}]}
+{"messages": [{"role": "user", "content": "Quelle météo est prévue à Sousse aujourd'hui ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Sousse\", \"days\": 1}"}]}
+{"messages": [{"role": "user", "content": "Will it rain in Paris in the next 3 days?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Paris\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Quelle météo est prévue à Casablanca après-demain ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Casablanca\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Quelle météo est prévue à Brussels dans les 3 prochains jours ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Brussels\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "Quelle météo est prévue à Oran dans les 5 prochains jours ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Oran\", \"days\": 5}"}]}
+{"messages": [{"role": "user", "content": "Quelle météo est prévue à Monastir après-demain ?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Monastir\", \"days\": 3}"}]}
+{"messages": [{"role": "user", "content": "What's the weather like in Lyon today?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Lyon\", \"days\": 1}"}]}
+{"messages": [{"role": "user", "content": "Do I need an umbrella in Lyon in the next 5 days?"}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Lyon\", \"days\": 5}"}]}
+{"messages": [{"role": "user", "content": "Donne-moi les prévisions météo pour Djerba dans les 3 prochains jours."}, {"role": "assistant", "content": "{\"tool\": \"get_weather\", \"city\": \"Djerba\", \"days\": 3}"}]}
