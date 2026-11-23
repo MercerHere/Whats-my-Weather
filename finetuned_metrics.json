@@ -1,0 +1,11 @@
+{
+    "total_examples": 50,
+    "valid_json_rate": 1.0,
+    "correct_tool_rate": 1.0,
+    "exact_argument_accuracy": 1.0,
+    "valid_json_count": 50,
+    "correct_tool_count": 50,
+    "correct_argument_count": 50,
+    "inference_errors": 0,
+    "evaluation_time_seconds": 73.13
+}
